@@ -1,0 +1,15 @@
+IP Node masing-masing anggota
+1. Master		: 172.20.147.181
+2. Worker Rank 1	: 172.17.109.2
+3. Worker Rank 2	: 172.31.245.140
+4. Worker Rank 3	: 172.27.3.193
+5. Worker Rank 4	: 172.23.25.229
+6. Worker Rank 5	: 172.22.69.203
+
+
+- Master (Dina Nur Azizah)
+- Worker Rank 1 (Nabila Rasty Azzahra)
+- Worker Rank 2 (Dafa Rahestian Almuzaki)
+- Worker Rank 3 (Raisya Dwi Novadenia Putri)
+- Worker Rank 4 (Adiba Maulidya Maharani)
+- Worker Rank 5 (Neyla Azna Sabila)
